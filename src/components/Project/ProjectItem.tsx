@@ -47,7 +47,7 @@ const ProjectItem = ({
             {stack.map((stack) => (
               <span
                 key={stack}
-                className=" bg-GRADIENT_TO dark:bg-white  py-[2px] px-1.5 rounded-md text-xs font-medium font-mono whitespace-nowrap text-white dark:text-BLACK"
+                className=" bg-GRADIENT_TO dark:bg-PRIMARY_LIGHT  py-[2px] px-1.5 rounded-md text-xs font-medium font-mono whitespace-nowrap text-white dark:text-PRIMARY"
               >
                 {stack}
               </span>

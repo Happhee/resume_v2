@@ -13,6 +13,7 @@ export interface WorkExperienceProps {
   period: string[];
   markdown?: string;
   imgSrc?: string;
+  stack: string[];
 }
 
 export interface ProjectProps {

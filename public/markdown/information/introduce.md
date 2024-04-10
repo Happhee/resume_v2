@@ -1,7 +1,7 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 단 한 사람에게라도 `도움을 주는 개발`을 추구합니다.
+- 23명의 파트원들을 주니어 개발자로 양성하기 위한 세미나를 진행한 경험이 있습니다.
+- 사용자에게 편리한 서비스를 제공하기 위해 근거 있는 개발을 진행합니다.
+- Pic.me에 기기별 맞춤형 스티커를 도입하여 사용자 경험을 향상시켰습니다.
+- 문제에 대한 경각심을 가지고 서비스의 발전을 이끌어냅니다.
+- sentry.io에 약 1.3K의 건수로 적재되었던 hydration 오류를 0건으로 달성한 경험이 있습니다.
+

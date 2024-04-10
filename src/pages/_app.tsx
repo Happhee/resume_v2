@@ -12,11 +12,11 @@ const GA_TRACKING_ID = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS;
 const DEFAULT_SEO = {
   title: "홍서희 | Front-End Dev",
   description: "안녕하세요, 선한 영향을 주는 프론트엔드 개발자 홍서희입니다.",
-  canonical: "https://www.naver.com/",
+  canonical: "https://resume-happhees-projects.vercel.app/",
   openGraph: {
     type: "website",
     locale: "ko_KR",
-    url: "https://www.naver.com/",
+    url: "https://resume-happhees-projects.vercel.app/",
     title: "홍서희 | Front-End Dev",
     site_name: "홍서희 | Front-End Dev",
     images: [

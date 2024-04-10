@@ -9,9 +9,6 @@ import Script from "next/script";
 import * as gtag from "../lib/gatag";
 const GA_TRACKING_ID = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS;
 
-/**
- * @description SEO를 위해 본인의 정보로 수정해주세요.
- */
 const DEFAULT_SEO = {
   title: "홍서희 | Front-End Dev",
   description: "안녕하세요, 선한 영향을 주는 프론트엔드 개발자 홍서희입니다.",

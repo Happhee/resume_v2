@@ -23,13 +23,15 @@
       "id": 0,
       "name": "중고나라",
       "position": "웹개발팀 - 인턴",
-      "period": ["2023.09", "2023.12"]
+      "period": ["2023.09", "2023.12"],
+      "stack": ["Next.js", "React.js", "TypeScript", "React-query", "Recoil", "tailwind"]
     },
     {
       "id": 1,
       "name": "중고나라",
       "position": "웹개발팀",
-      "period": ["2024. 02", "현재"]
+      "period": ["2024. 02", "현재"],
+      "stack": ["Next.js", "React.js", "TypeScript", "React-query", "Recoil", "tailwind"]
     }
   ],
 

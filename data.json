@@ -31,7 +31,7 @@
       "name": "중고나라",
       "position": "웹개발팀",
       "period": ["2024. 02", "현재"],
-      "stack": ["Next.js", "React.js", "TypeScript", "React-query", "Recoil", "tailwind"]
+      "stack": ["Next.js", "React.js", "TypeScript", "React-query", "shadcn/ui", "tailwind"]
     }
   ],
 
